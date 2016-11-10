@@ -10,8 +10,8 @@ nav ul, footer ul {
     font-weight: bold;
 }
 nav ul li, footer ul li {
-   /* display: inline;*/
-    text-align:center;
+    display: inline;
+    /*text-align:center;*/
     margin-right: 20px;
 }
 a {
