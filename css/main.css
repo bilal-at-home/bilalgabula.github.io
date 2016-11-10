@@ -1,9 +1,7 @@
 body {
-    margin: 60px auto;
-    width: 70%;
-    background:url("bilalgabula.github.io/background.jpg"); 
-    background-repeat: no-repeat;  
-    background-size: 100% 100%;
+  /*  margin: 60px auto;
+    width: 70%;*/
+    background-image:url("bilalgabula.github.io/background.jpg"); 
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
