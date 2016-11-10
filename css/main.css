@@ -16,6 +16,7 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
+    text-align:center;
     color: #FFF;
 }
 a:hover {
