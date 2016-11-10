@@ -1,7 +1,7 @@
 body {
     margin: 60px auto;
     width: 70%;
-    background-image:url("bilalgabula.github.io/background.jpg"); 
+    background:url("bilalgabula.github.io/background.jpg"); 
     background-repeat: no-repeat;  
     background-size: 100% 100%;
 }
